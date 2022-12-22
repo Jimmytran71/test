@@ -1,10 +1,4 @@
-test.txt RT
+test.txt
 README.md
 
-
-<<<<<<< HEAD
-
 Yes
-=======
-Yes No
->>>>>>> branch1
